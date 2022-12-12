@@ -1,0 +1,9 @@
+.box {
+    margin: 0 auto;
+    width: 600px;
+    padding: 20px;
+    background: aliceblue;
+    padding-top: 20px;
+    margin-top: 200px;
+    box-shadow: 0 12px 12px 0 rgba(110, 180, 236, 0.2);
+}

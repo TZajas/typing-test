@@ -1,0 +1,19 @@
+.navbar {
+    background-color: azure;
+    box-shadow: 0 3px 8px 0 rgba(110, 180, 236, 0.2);
+}
+
+.nav-link {
+    color: #fff
+}
+
+.nav-link:hover,
+.nav-link:active {
+    color: rgb(240, 148, 10)
+}
+
+.button {
+    background-color: rgb(74, 120, 237);
+    font-size: 24px;
+    font-family: inherit;
+}
